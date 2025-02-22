@@ -17,7 +17,6 @@ Please focus on the following:
 ✅ Use research speedup  on Day 5.
 
 ❗Please wait for President skills to be activated first.
-
 ```
 
 
@@ -38,22 +37,25 @@ Today is Day 2 of SvS preparation, so please, focus on following:
 
 - Spin Lucky Wheel 🎡
 - Use Hero Shards 
-- Gather Resources 
+- Gather Resources 🍖
 
 Choice
-
 ⭕ Use FC 
 ⭕ Use speedups 
 
-PS: Please save Pet upgrades for the last day. Thank you.
-
+PS: Please save pet upgrades for the last day. Thank you.
+```
+```
+❗Dont call beast rallies today. The event last for 48 hours. Use it on Day 3 of Preparation Phase and you can retrieve both rewards together.
+Leave all for your staminas for Prep Phase Day 3 Beast hunting day.
 ```
 
 #### Alliance Notice: 
 
 ```
 - SvS Prep Day 2: Gathering, Hero Shards, Lucky Wheel
+- Dont kill aimals today!
 - Crazy Joe at 15:00 UTC
 - Sign up for Frostfire Mine
-- Enroll in Middle Lane of Alliance Championship with 50/20/30 troop ratio
+- Enroll in middle lane of Alliance Championship with 50/20/30 troop ratio
 ```
