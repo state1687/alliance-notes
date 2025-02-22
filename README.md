@@ -22,7 +22,6 @@ Please focus on the following:
 
 #### Alliance Notice: 
 
-
 ```
 SvS Prep Day 1: Construction speedups, Fire Crystals, Charms
 Enroll in Middle Lane of Alliance Championship with 50/20/30 troop ratio
@@ -35,7 +34,7 @@ Enroll in Middle Lane of Alliance Championship with 50/20/30 troop ratio
 ```
 Today is Day 2 of SvS preparation, so please, focus on following:
 
-- Spin Lucky Wheel 🎡
+- Spin Lucky Wheel 
 - Use Hero Shards 
 - Gather Resources 🍖
 
@@ -53,9 +52,51 @@ Leave all for your staminas for Prep Phase Day 3 Beast hunting day.
 #### Alliance Notice: 
 
 ```
-- SvS Prep Day 2: Gathering, Hero Shards, Lucky Wheel
+- SvS Prep Day 2: Gather rss, use Hero Shards, spin Lucky Wheel
 - Dont kill aimals today!
 - Crazy Joe at 15:00 UTC
 - Sign up for Frostfire Mine
 - Enroll in middle lane of Alliance Championship with 50/20/30 troop ratio
+```
+
+### Day 3:
+
+#### Alliance Message: 
+
+```
+Hi all! Today is Day 3 of SvS prep phase.  
+Beast hunting/polar terror rallies✅
+
+❗F2p players, this is the day you all shine! Use 
+
+Choice:
+⭕ Spin lucky wheel
+⭕ Hero shards 
+
+❗PS: Please save Pet upgrades for the last day. Thank you 💜
+```
+
+#### Alliance Notice: 
+```
+SvS Prep Day 3: Polar Terror Hunting, use Hero Shards, spin Lucky Wheel
+
+Bear Hunt at 14:00 UTC
+```
+### Day 4:
+
+#### Alliance Message: 
+```
+Day 4 of SvS prep phase. Please focus on:
+- Training / promoting troops, use spedups 
+- Upgrade Chief Charms 🔸
+
+❗Please wait for President skills to be activated first.
+
+❗PS: Please save Pet upgrades, Hero essence stones, hero widgets, chief gear & remaining speedups (research & construction) for the last day
+```
+#### Alliance Notice: 
+```
+SvS Prep Day 4: train troops, upgrade chief charms
+
+Crazy Joe at 14:00 UTC
 ```
