@@ -25,6 +25,8 @@ Please focus on the following:
 ```
 SvS Prep Day 1: Construction speedups, Fire Crystals, Charms
 Enroll in Middle Lane of Alliance Championship with 50/20/30 troop ratio
+
+Bear Hunt at 14:40UTC
 ```
 
 ### Day 2:
@@ -80,7 +82,7 @@ Choice:
 ```
 SvS Prep Day 3: Polar Terror Hunting, use Hero Shards, spin Lucky Wheel
 
-Bear Hunt at 14:00 UTC
+Bear Hunt at 14:05 UTC
 ```
 ### Day 4:
 
@@ -100,3 +102,25 @@ SvS Prep Day 4: train troops, upgrade chief charms
 
 Crazy Joe at 14:00 UTC
 ```
+
+### Day 5
+#### Alliance Message:
+```
+Last prep phase day! All the best guys🎉
+
+- Upgrade Chief Gear 🎩 
+- Use Research Speedups  and all remaining speedups 
+- Hero Gear upgrades  (Essence stones, Widgets, Mithril)
+- Pet upgrades 🐾
+```
+#### Alliance Notice: 
+```
+Last prep phase day! All the best guys!
+- Upgrade Chief Gear
+- Use Speedups
+- Hero Gear upgrades
+- Pet upgrades
+
+Bear Hunt at 14:00 UTC
+```
+
