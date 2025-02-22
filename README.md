@@ -106,12 +106,12 @@ Crazy Joe at 14:00 UTC
 ### Day 5
 #### Alliance Message:
 ```
-Last prep phase day! All the best guys🎉
+Last prep phase day! All the best guys 🎉
 
-- Upgrade Chief Gear 🎩 
-- Use Research Speedups  and all remaining speedups 
-- Hero Gear upgrades  (Essence stones, Widgets, Mithril)
-- Pet upgrades 🐾
+✅ Upgrade Chief Gear 🎩 
+✅ Use Research Speedups  and all remaining speedups 
+✅ Hero Gear upgrades  (Essence stones, Widgets, Mithril)
+✅ Pet upgrades 🐾
 ```
 #### Alliance Notice: 
 ```
