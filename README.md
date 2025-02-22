@@ -2,25 +2,28 @@
 ## SvS preparation phase
 Day 1:
 
-Alliance Message: 
+### Alliance Message: 
 
 
 ```
 The first day of SvS preparation phase has begun!
-Please focus on the following for today's SvS preparation phase:
+Please focus on the following:
 
-- Construction + Fire Crystals/Shards 
+- Use FC 
+- Use Construction Speedup 
+- Upgrade Chief charms 🔸
 
-- Charm Upgrades 💍 (Not Chief Gear, that is for a different day)
+**Use training speedup  on Day 4. Use research speedup  on Day 5.**
 
-Charms can also be used to increase score on days 3 and 4 of preparation.
-```
-
-
-Alliance Notice: 
-
+***Please wait for President skills to be activated first***
 
 ```
-SvS Prep Day 1: Construction, Fire Crystals/Shards, Charms
+
+
+### Alliance Notice: 
+
+
+```
+SvS Prep Day 1: Construction speedups, Fire Crystals, Charms
 Enroll in Middle Lane of Alliance Championship with 50/20/30 troop ratio
 ```
