@@ -13,9 +13,9 @@ Please focus on the following:
 - Use Construction Speedup 
 - Upgrade Chief charms 🔸
 
-✔️ Use training speedup  on Day 4. Use research speedup  on Day 5.
+✅ Use training speedup  on Day 4. Use research speedup  on Day 5.
 
-✔️ Please wait for President skills to be activated first.
+❗ Please wait for President skills to be activated first.
 
 ```
 
