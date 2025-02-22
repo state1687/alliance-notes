@@ -1,8 +1,8 @@
 # Alliance Notficalions and Messages
 ## SvS preparation phase
-Day 1:
+### Day 1:
 
-### Alliance Message: 
+#### Alliance Message: 
 
 
 ```
@@ -20,7 +20,7 @@ Please focus on the following:
 ```
 
 
-### Alliance Notice: 
+#### Alliance Notice: 
 
 
 ```
